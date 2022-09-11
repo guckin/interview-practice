@@ -1,6 +1,6 @@
 # Typescript Practice Interview
 
-A mono repo of interview practice problems and solutions I have encountered
+A mono repo of interview problems and solutions
 
 ### Running tests
 ```
