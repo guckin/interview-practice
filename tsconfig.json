@@ -13,7 +13,6 @@
     "strict": true
   },
   "include": [
-    "src/**/*.ts",
-    "test/**/*.ts"
+    "problems/**/*.ts"
   ]
 }
