@@ -1,0 +1,3 @@
+describe('Word Pattern', () => {
+
+});

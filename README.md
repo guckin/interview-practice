@@ -1,13 +1,6 @@
-# Typescript Template
+# Typescript Practice Interview
 
-### Development
-
-Install dependencies
-```
-npm i
-```
-
-running tests
+Running tests
 ```
 npm test
 ```

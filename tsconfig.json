@@ -9,7 +9,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "resolveJsonModule": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "strict": true
   },
   "include": [
     "src/**/*.ts",
